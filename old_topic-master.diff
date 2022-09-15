@@ -1,0 +1,31 @@
+diff --git a/shopping.txt b/shopping.txt
+index e7c5dab..bd402ae 100644
+--- a/shopping.txt
++++ b/shopping.txt
+@@ -8,6 +8,10 @@ bread
+ cereal
+ eggs
+ bacon
++5 Shampoo
++soap
++Medicine
++Thermometer
+ orange juice
+ grapes
+ lemons
+@@ -17,4 +21,5 @@ soup
+ ice cream
+ sugar
+ flour
+-
++Mangoes
++Oranges
+diff --git a/to_do.txt b/to_do.txt
+index 2b42774..7cc0c2f 100644
+--- a/to_do.txt
++++ b/to_do.txt
+@@ -12,3 +12,4 @@ practice piano
+ plan birthday party!
+ Learn Git 
+ Learn GitHUB
++Make Python repo on GitHUB and push learned topics on GitHUB
