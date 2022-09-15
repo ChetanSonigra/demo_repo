@@ -8,6 +8,8 @@ bread
 cereal
 eggs
 bacon
+Shampoo
+soap
 orange juice
 grapes
 lemons
