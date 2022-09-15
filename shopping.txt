@@ -8,7 +8,7 @@ bread
 cereal
 eggs
 bacon
-Shampoo
+5 Shampoo
 soap
 Medicine
 Thermometer
