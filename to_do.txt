@@ -12,3 +12,4 @@ practice piano
 plan birthday party!
 Learn Git 
 Learn GitHUB
+Make Python repo on GitHUB and push learned topics on GitHUB

@@ -8,6 +8,10 @@ bread
 cereal
 eggs
 bacon
+5 Shampoo
+soap
+Medicine
+Thermometer
 orange juice
 grapes
 lemons
@@ -17,4 +21,5 @@ soup
 ice cream
 sugar
 flour
-
+Mangoes
+Oranges
