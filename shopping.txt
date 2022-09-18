@@ -6,7 +6,7 @@ yogurt
 milk
 bread
 cereal
-eggs
+6 eggs
 bacon
 5 Shampoo
 soap
